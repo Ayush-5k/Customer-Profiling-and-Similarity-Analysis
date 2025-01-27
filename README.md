@@ -115,4 +115,4 @@ The approach followed includes:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Ayush-5k/Customer-Profiling-and-Similarity-Analysis
